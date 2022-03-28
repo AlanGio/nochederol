@@ -78,16 +78,20 @@
       <h4>En vivo todos los jueves</h4>
     </div>
     <div class="col title text-center">
-      <a href="https://www.twitch.tv/nochederol">
+      <a href="https://www.twitch.tv/nochederol"
+         target="_blank">
         <i class="bi bi-twitch"></i>
       </a>
-      <a href="https://www.facebook.com/Nochederol">
+      <a href="https://www.facebook.com/Nochederol"
+         target="_blank">
         <i class="bi bi-facebook"></i>
       </a>
-      <a href="https://twitter.com/Nochederol_">
+      <a href="https://twitter.com/Nochederol_"
+         target="_blank">
         <i class="bi bi-twitter"></i>
       </a>
-      <a href="https://www.instagram.com/nochederol/">
+      <a href="https://www.instagram.com/nochederol/"
+         target="_blank">
         <i class="bi bi-instagram"></i>
       </a>
     </div>
