@@ -84,8 +84,11 @@
       <a href="https://www.facebook.com/Nochederol">
         <i class="bi bi-facebook"></i>
       </a>
-      <a href="https://www.instagram.com/nochederol/">
+      <a href="https://twitter.com/Nochederol_">
         <i class="bi bi-twitter"></i>
+      </a>
+      <a href="https://www.instagram.com/nochederol/">
+        <i class="bi bi-instagram"></i>
       </a>
     </div>
   </div>
